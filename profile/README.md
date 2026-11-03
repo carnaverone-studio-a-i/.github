@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/carnaverone/carnaverone/main/assets/profile-hero.svg" alt="Carnaverone Studio A.I. — Independent creative technology studio" width="100%">
+  <img src="https://raw.githubusercontent.com/carnaverone-studio-a-i/.github/main/profile/assets/profile-hero.svg" alt="Carnaverone Studio A.I. — Independent creative technology studio" width="100%">
 </p>
 
 <p align="center">
