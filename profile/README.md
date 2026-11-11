@@ -115,7 +115,7 @@ The studio develops and explores AI agents, multi-agent coordination, swarm arch
       <a href="https://github.com/dazmelania/dazmelania">Creator profile</a> ·
       <a href="https://linktr.ee/dazmelania">Linktree</a>
       <br>
-      <a href="https://www.youtube.com/channel/UC8XpagCvXHcnrHl-WEx5ISw">YouTube</a> ·
+      <a href="https://www.youtube.com/@Dazmelania">YouTube</a> ·
       <a href="https://www.facebook.com/dazmelania">Facebook</a> ·
       <a href="https://www.tiktok.com/@dazmelania">TikTok</a>
     </td>
@@ -136,7 +136,7 @@ The studio develops and explores AI agents, multi-agent coordination, swarm arch
   &nbsp; / &nbsp;
   <a href="https://linktr.ee/dazmelania">Dazmelania · All links</a>
   &nbsp; / &nbsp;
-  <a href="https://www.youtube.com/channel/UC8XpagCvXHcnrHl-WEx5ISw">Dazmelania · YouTube</a>
+  <a href="https://www.youtube.com/@Dazmelania">Dazmelania · YouTube</a>
 </p>
 
 <details>
@@ -161,7 +161,7 @@ Le studio conçoit et explore les agents IA, les architectures multi-agents, la 
 
 **[Carnaverone](https://github.com/carnaverone)** — Fondateur · Direction du studio · Logiciels · Systèmes agentiques · R&D. Architecture de systèmes, agents IA, IA locale, développement logiciel, workflows multimodaux et direction créative. [Site](https://www.carnaverone.com) · [GitHub](https://github.com/carnaverone) · [Linktree](https://linktr.ee/Carnaverone).
 
-**[Dazmelania](https://github.com/dazmelania)** — Artiste numérique · Créatrice vidéo IA · Narration visuelle. Humour court, personnages assistés par IA, animaux malicieux, compagnons décalés, humour saisonnier canadien, mini-sketches et histoires imaginatives du quotidien. [GitHub](https://github.com/dazmelania) · [Linktree](https://linktr.ee/dazmelania) · [YouTube](https://www.youtube.com/channel/UC8XpagCvXHcnrHl-WEx5ISw) · [Facebook](https://www.facebook.com/dazmelania) · [TikTok](https://www.tiktok.com/@dazmelania).
+**[Dazmelania](https://github.com/dazmelania)** — Artiste numérique · Créatrice vidéo IA · Narration visuelle. Humour court, personnages assistés par IA, animaux malicieux, compagnons décalés, humour saisonnier canadien, mini-sketches et histoires imaginatives du quotidien. [GitHub](https://github.com/dazmelania) · [Linktree](https://linktr.ee/dazmelania) · [YouTube](https://www.youtube.com/@Dazmelania) · [Facebook](https://www.facebook.com/dazmelania) · [TikTok](https://www.tiktok.com/@dazmelania).
 
 ## 04 / EXPLORER & SUIVRE
 
@@ -169,7 +169,7 @@ Le studio conçoit et explore les agents IA, les architectures multi-agents, la 
 - [Site officiel](https://www.carnaverone.com)
 - [Liens Carnaverone](https://linktr.ee/Carnaverone)
 - [Liens Dazmelania](https://linktr.ee/dazmelania)
-- [Chaîne YouTube Dazmelania](https://www.youtube.com/channel/UC8XpagCvXHcnrHl-WEx5ISw)
+- [Chaîne YouTube Dazmelania](https://www.youtube.com/@Dazmelania)
 
 </details>
 
